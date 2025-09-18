@@ -12,7 +12,7 @@ class basic {
       this.wt = w;
     }
   }
-
+// this is ok
   public static void main(String[] args) {
     int v = 5;
     // int[] arr = new int[v];
